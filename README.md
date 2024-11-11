@@ -46,4 +46,5 @@ Le programme suit une structure en tour par tour où chaque personnage attaque l
 ## Exécution
 
 1. **Compiler le code** :
-   g++ Main.cpp -o Main -lmysqlcppconn
+  - Avant de compiler changer les informations du compte mySQL dans le fichier `BDD.cpp` à la ligne 16
+  - g++ Main.cpp -o Main -lmysqlcppconn
