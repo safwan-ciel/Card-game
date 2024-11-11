@@ -41,7 +41,7 @@ Le programme suit une structure en tour par tour où chaque personnage attaque l
 - `snow_queen.hpp`, `snow_queen.cpp` : classe dérivée `Snow_Queen`.
 - `equipement.hpp` : définit les caractéristiques des équipements.
 - `BDD.hpp`, `BDD.cpp` : Connnexion à la base de données d'équipements.
--   Dans le fichier 'BDD.cpp' changer les informations du compte mySQL 
+  - Dans le fichier `BDD.cpp` changer les informations du compte mySQL 
 
 ## Exécution
 
